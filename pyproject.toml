@@ -8,6 +8,8 @@ packages = [{include = "thesis_on_crm_development"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+django-webpack-loader = "^2.0.1"
+django = "3.0"
 
 
 [build-system]
